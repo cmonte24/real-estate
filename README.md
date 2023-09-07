@@ -1,8 +1,4 @@
-# Real Estate Rental and Tenant Management System - Property Plus
-
-Property Plus is a real estate rental and tenant management system. It is a web application that allows two types of users to use the application. The two types of users are the owner and the tenant. The owner can post a property for rent, manage tenants, register rent payment, and create a property contract. The tenant can search and filter properties, view property details, send an email to the owner of the property, and use the built-in chat application for communication between the owner and the tenant.
-
-Live Site - [Property Plus](https://property-plus.onrender.com)
+# Real Estate System
 
 ## Features
 
@@ -28,11 +24,6 @@ Live Site - [Property Plus](https://property-plus.onrender.com)
 - [Ethereal Email](https://ethereal.email/)
 
 1. Clone the repository:
-
-```bash
-$ git clone https://github.com/SonamRinzinGurung/Real-Estate-Rental-and-Tenant-Management-System.git
-```
-
 2. Install the required packages for the backend:
 
 ```bash
@@ -79,11 +70,3 @@ EMAIL_PASS= <your_ethereal_email_pass>
 $ cd server
 $ npm run dev
 ```
-
-## Author
-
-[Sonam Rinzin Gurung](https://github.com/SonamRinzinGurung)
-
-## Repository
-
-[Property Plus](https://github.com/SonamRinzinGurung/Real-Estate-Rental-and-Tenant-Management-System)
